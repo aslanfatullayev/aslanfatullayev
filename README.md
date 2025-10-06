@@ -12,7 +12,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslanfatullayev&show_icons=true&locale=en&layout=compact" alt="aslanfatullayev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslanfatullayev&show_icons=true&locale=en" alt="aslanfatullayev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslanfatullayev&" alt="aslanfatullayev" /></p>
