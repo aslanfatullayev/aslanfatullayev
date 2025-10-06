@@ -2,11 +2,6 @@
 <h3 align="center">A backend developer from Uzbekistan</h3>
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/190b3fc4-1d44-4a85-8b61-5cc4523345e0" />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslanfatullayev&label=Profile%20views&color=0e75b6&style=flat" alt="aslanfatullayev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslanfatullayev" alt="aslanfatullayev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aslan-fatullaev-b96b01294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aslan-fatullaev-b96b01294" height="30" width="40" /></a>
