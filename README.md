@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslan</h1>
 <h3 align="center">A backend developer from Uzbekistan</h3>
-![pyback](https://github.com/user-attachments/assets/74353331-ab6f-4a92-9eac-24022b0cd229)
+![pyback](https://github.com/user-attachments/assets/a6892d2e-ac8c-4f62-9e94-9d29b1ab85e7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslanfatullayev&label=Profile%20views&color=0e75b6&style=flat" alt="aslanfatullayev" /> </p>
 
